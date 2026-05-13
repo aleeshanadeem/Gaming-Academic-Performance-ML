@@ -1,6 +1,6 @@
 # 🎮 Gaming vs Academic Performance — Machine Learning Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 This project explores the relationship between students' gaming behavior and their academic performance using data analysis and machine learning techniques.
 
@@ -54,8 +54,9 @@ Ensemble models such as Random Forest and XGBoost performed better than Linear R
 2. Exploratory Data Analysis
 3. Feature Engineering
 4. Model Training
-5. Model Evaluation & Comparison
-6. Conclusion & Insights
+5. Fit Model
+6. Model Evaluation & Comparison
+7. Conclusion & Insights
 
 ---
 
