@@ -8,7 +8,7 @@ The goal is to understand how factors such as gaming hours, study time, sleep pa
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Perform data cleaning and preprocessing
 * Conduct exploratory data analysis (EDA)
