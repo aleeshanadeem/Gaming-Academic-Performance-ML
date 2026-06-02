@@ -26,7 +26,7 @@ The goal is to understand how factors such as gaming hours, study time, sleep pa
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 The analysis shows that academic performance is strongly influenced by consistent study habits, attendance, and lifestyle balance.
 
