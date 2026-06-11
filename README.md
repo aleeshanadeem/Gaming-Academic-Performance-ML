@@ -1,4 +1,4 @@
-# 🎮 Gaming vs Academic Performance — Machine Learning Analysis
+# 🎮 Gaming vs Academic Performance  Machine Learning Analysis
 
 ##  Project Overview
 
