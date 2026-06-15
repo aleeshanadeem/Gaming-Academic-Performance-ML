@@ -2,7 +2,7 @@
 
 ##  Project Overview
 
-This project explores the relationship between students' gaming behavior and their academic performance using data analysis and machine learning techniques.
+This project explores the relationship between students' gaming behavior and their academic performance using data analysis  and machine learning techniques.
 
 The goal is to understand how factors such as gaming hours, study time, sleep patterns, stress levels, and attendance impact overall grades.
 
